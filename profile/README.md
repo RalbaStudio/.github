@@ -1,5 +1,6 @@
-## Hi there 👋
+## Welcome to Ralba 👋
 
+We build solutions for startups and established businesses using modern technologies in application development.
 <!--
 
 **Here are some ideas to get you started:**
